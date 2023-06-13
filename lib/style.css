@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.header{
+    background-color: blue;
+    padding: 2.5rem;
+    display:flex;
+    justify-content: space-between;
+}
+main{
+    display:flex;
+    flex-wrap:wrap;
+
+}
+.sidebar{
+width: 1.5rem;
+background-color:red;
+}

@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    width: 0;
+}
+.grid-container{
+width: 60px;
+}
+.item1{
+
+}
+.item2{
+background-color: aqua;
+}
+.item3{
+
+}
+.item4{
+
+}
+.item5{
+    display:grid;
+
+}
+
+@media(min-width:401px) and(min-width:850){
+}
